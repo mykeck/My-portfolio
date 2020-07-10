@@ -65,3 +65,8 @@ nav>ol{
 #landing .button:hover{
     background-color: aquamarine;
 }
+#about{
+    text-align: center;
+    color: black;
+    
+}
