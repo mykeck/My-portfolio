@@ -37,7 +37,7 @@ nav>ol{
     color: coral;
   }
 #landing{
-    background-image: url(../images/coding.jpeg);
+    background-image: url(./images/coding.jpeg);
     background-size: cover;
     height: 100vh;
     background-position-x: center;
