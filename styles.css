@@ -80,4 +80,7 @@ nav>ol{
         display: flex;
         justify-content: space-around;
 }
+#contacts{
+    text-align: center;
+}
 
