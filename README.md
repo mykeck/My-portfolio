@@ -1,23 +1,23 @@
-Portfolio
+# Portfolio
 The application is a simple portfolio about myself it is easy to navigate through since no authentification is needed .It only has the contact,about and project pages 10/07/2020
 By Mike Collins Kiragu
-Description
+## Description
 This project is a portfolio,the project mainly have my personal information which include education backgroud,contacts and projects it is more of a resume it allows any potential employer or client to access my information before they have a face to face interview find the link to the project here mykeck.github.io/my-portfolio/
 
-Setup/Installation Requirements
+## Setup/Installation Requirements
 clone this repo
 cd about-me
 open index.hml
-Known Bugs
+## Known Bugs
 currently i dont have any
 
-Technologies Used
+## Technologies Used
 html
 css
-Support and contact details
+## Support and contact details
 reach me through my social media platforms
 
-License
+## License
 MIT License
 
 Copyright (c) [2020] [Mike collins Kiragu]
