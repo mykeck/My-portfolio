@@ -80,10 +80,24 @@ nav>ol{
         display: flex;
         justify-content: space-around;
 }
-#contacts h3{
-    text-align: center;
-}
-#contacts{
-
-}
-
+#contacts {
+    background-color: #76323F;
+    padding: 20px;
+    border-radius: 900px;
+    color: white;
+    align-items: center;
+  }
+  #contacts>img{
+    float: left;
+    border: black solid;
+    margin-top: 20px;
+    margin-left: 25px;
+  }
+  #contacts>p{
+    display: inline-flex;
+    justify-content: space-evenly;
+    margin: 10px;
+  }
+  #Copyright{
+      color: #000;
+  }
