@@ -3,7 +3,7 @@
     padding: 0;
 }
 #container{
-    background-color: burlywood;
+    background-color: #f4decb;
 }
 body{
     margin: 0;
@@ -37,7 +37,7 @@ nav>ol{
   }
   
   nav>ol>li>a:hover {
-    color: coral;
+    color:#49274a;
   }
 #landing{
     background-image: url(./images/coding.jpeg);
@@ -46,7 +46,7 @@ nav>ol{
     background-position-x: center;
     text-align: center;
     padding: 0 20px;
-    box-shadow: 0 3000px 0 0 rgba(146, 147, 170, 0.5) inset;
+    box-shadow: 0 3000px 0 0 rgba(165,42,42,0.5) inset;
 }
 #landing h1{
     font-size: 70px;
@@ -58,41 +58,29 @@ nav>ol{
     font-size: 20px;
     margin-bottom: 5vh;
 }
-#landing .button{ 
- font-size: 18px; 
-     text-decoration: none; 
-     color: rgb(9, 54, 39);
-     border: aquamarine 1px;
-     margin-top: 20px;
-}
-#landing .button:hover{
-    background-color: aquamarine;
-}
 #about{
     text-align: center;
-    color: black;
-    
+    color: #49274a;
 }
 .heading{
     text-align: center;
-    color: black;
+    color: #49274a;
 }
 #projects{
-     color: black;
+     color: #49274a;
      text-align: center; 
         display: flex;
         justify-content: space-around;
-        /* background-color: lightgrey; */
-  
-  height: 50%;
-  border: 3px solid green;
-  padding: 20px;
-  margin: 0px; 
+        height: 50%;
+        border: 3px solid black;
+        padding: 20px;
+        margin: 0px; 
+        background-color: #f8eee7;
 }
 #contacts {
-    background-color: #76323F;
+    background-color: #a52a2a;
     padding: 20px;
-    /* border-radius: 900px; */
+    
     color: white;
     align-items: center;
   }
@@ -108,6 +96,6 @@ nav>ol{
     margin: 10px;
   }
   #Copyright{
-      color: #000;
-      background-color: cadetblue;
+      color: #49274a;
+      background-color: #f4decb;
   }
