@@ -12,7 +12,7 @@ open index.hml
 currently i dont have any
 
 ## Technologies Used
-html
+Html<br>
 css
 ## Support and contact details
 reach me through my social media platforms
