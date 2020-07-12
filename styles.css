@@ -52,6 +52,7 @@ nav>ol{
     font-size: 70px;
     line-height: 1.2;
     margin-bottom: 7vh;
+    font-family: "Lucida Console", Courier, monospace;;
     
 }
 #landing p{
@@ -99,3 +100,22 @@ nav>ol{
       color: #49274a;
       background-color: #f4decb;
   }
+ 
+  @media screen and (min-width: 480px) and (max-width: 767px) {
+    body {
+        background-color: black;
+        color: white;
+    }
+}
+@media screen and (min-width: 768px) {
+  body {
+    background-color: gray;
+  }
+  .column {
+    width: 220px;
+    float: left;
+    padding: 15px;
+  }
+}
+  
+  
